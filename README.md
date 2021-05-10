@@ -11,7 +11,12 @@ CRUD APP with Database
 
 Its just a simple app that allows you to CREATE, READ, UPDATE and DELETE a User.
 
-## Simple Documentation of my routes
+## Links
+
+- Github Link : https://github.com/soundx-code/i4g-zuri-nodejs-crud-with-database
+- Heroku Link : https://nodejs-crud-by-francis.herokuapp.com/api/user
+
+## Simple Documentation of the routes
 
 - GET REQUEST - Gets all users -- /api/user/
 - POST REQUEST - Creates a new user -- /api/user/
